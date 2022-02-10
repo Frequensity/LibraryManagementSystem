@@ -1,5 +1,5 @@
 # LibraryManagementSystem
-Library management system for college
+Library management system for college. java application
 
 
 ABCD
